@@ -1,0 +1,11 @@
+{
+  "name": "muckup-book-festival-tubik",
+  "version": "1.0.0",
+  "description": "A muckup from a design by Tubik to Platzi Master ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "emipmttt@gmail.com",
+  "license": "MIT"
+}

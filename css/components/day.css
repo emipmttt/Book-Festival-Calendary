@@ -1,0 +1,22 @@
+.day--title {
+    font-size: 3em;
+    color: #c85974
+}
+
+.day--hour {
+    font-size: 35px;
+}
+
+.border-left {
+    border-left: solid 1px;
+}
+
+.border-bottom {
+    border-bottom: solid 1px;
+}
+
+@media (max-width: 900px) {
+    .border-left {
+        border-left: none;
+    }
+}

@@ -1,0 +1,40 @@
+.primary-section .primary-section--title {
+    font-size: 4em;
+    width: 2.5em;
+    overflow-wrap: break-word;
+    line-height: .8em;
+}
+
+.primary-section--quick-search {
+    text-align: right;
+}
+
+.primary-section--quick-search .quick-search--search-description {
+    max-width: 300px;
+    text-align: left;
+}
+
+.quick-search--search-description .quick-search--search-input {}
+
+.quick-search--search-input .search-input--input {
+    background: transparent;
+    border: none;
+    font-size: 25px;
+    border-bottom: solid 1px #fff;
+    color: #fff;
+    padding: 5px;
+}
+
+.quick-search--search-input .search-input--input:focus {
+    outline: none;
+}
+
+@media (max-width: 624px) {
+   
+    
+    .primary-section--quick-search .quick-search--search-description  {
+        max-width:100%;
+        margin-top:5%
+    }
+}
+
